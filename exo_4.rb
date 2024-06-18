@@ -1,0 +1,2 @@
+puts"salu ca farte"
+
